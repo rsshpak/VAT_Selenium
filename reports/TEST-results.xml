@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="42.127" timestamp="2022-12-27T14:13:25.969915" hostname="DESKTOP-C8B9MPF"><testcase classname="tests.login_test.TestW07FOTRTLSCM" name="test_open_asset_manager_page" time="42.087" /></testsuite></testsuites>

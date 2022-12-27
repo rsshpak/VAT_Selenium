@@ -1,0 +1,9 @@
+pytest
+pytest-xdist
+pytest-repeat
+selenium
+termcolor
+allure-python-commons
+junitxml
+junit2html
+openpyxl
